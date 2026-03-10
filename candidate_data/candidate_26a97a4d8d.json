@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-04-29T23:18:44.782259",
+  "data_version": "1.0",
+  "encrypted_candidate_info": {
+    "name": "gAAAAABoERD8ViJH4lu56wNcMI_B0LBS9Z_9RQJdFdriDSvrxZKejp-GWflQYyfeB77mCpDZGE3S7Z7oyMH5fatVUz7KigOEPQ==",
+    "email": "gAAAAABoERD8PMZB9BKuU07WTZ65g9O-5hHCNMsC4ry3vR7xsSbtnLJB3LSlLL-PEtZP9qyO4XddSS1kRXaetasCHrC8lF4Ub5aaWa7Os-EEqc8a0lS3n-w=",
+    "phone": null,
+    "experience": null,
+    "desired_position": null,
+    "location": null,
+    "tech_stack": null,
+    "questions_asked": false,
+    "conversation_complete": false
+  },
+  "anonymized_candidate_info": {
+    "name": "Candidate-26a97a4d8d",
+    "email": "n***********3@gmail.com",
+    "phone": null,
+    "experience": null,
+    "desired_position": null,
+    "location": null,
+    "tech_stack": null,
+    "questions_asked": false,
+    "conversation_complete": false,
+    "anonymous_id": "26a97a4d8d"
+  },
+  "conversation_history": [
+    {
+      "role": "assistant",
+      "content": "\ud83d\udc4b Hello! I'm the TalentScout Hiring Assistant. I'll help gather some information about your profile and ask a few technical questions to match you with the right opportunities. Let's start with your full name."
+    },
+    {
+      "role": "assistant",
+      "content": "\n        By continuing this conversation, you consent to TalentScout collecting and processing \n        your personal information for recruitment purposes. Your data will be stored securely \n        and in accordance with our Privacy Policy. You may request access to, correction, \n        or deletion of your data at any time.\n        "
+    },
+    {
+      "role": "user",
+      "content": "Hi, My name is Vivek Yadav"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Vivek, nice to meet you! Can you please share your email address with me?"
+    },
+    {
+      "role": "user",
+      "content": "My email address is newshorts5223@gmail.com"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for sharing your email, Vivek! Can you please share your phone number with me?"
+    }
+  ]
+}
